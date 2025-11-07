@@ -1,0 +1,1 @@
+{"version":3,"file":"vehicleSize.d.ts","sourceRoot":"","sources":["../../src/utils/vehicleSize.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,UAAU,CAAC;AAIvC,eAAO,MAAM,mBAAmB,GAAI,MAAM,WAAW,KAAG,MACxB,CAAC;AAEjC,eAAO,MAAM,oBAAoB,GAC/B,WAAW,WAAW,EACtB,KAAK,WAAW,KACf,OAAqE,CAAC;AAEzE,eAAO,MAAM,mBAAmB,GAAI,MAAM,WAAW,KAAG,MAUvD,CAAC"}
